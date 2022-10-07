@@ -1,1 +1,1 @@
-_small_ __[Markdown](https://wordpress.com/support/markdown-quick-reference/)__ _text_
+_small_ [Markdown](https://wordpress.com/support/markdown-quick-reference/) __text__
